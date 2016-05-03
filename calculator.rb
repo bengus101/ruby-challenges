@@ -14,5 +14,8 @@ class Calculator
 	def multiply(number_1, number_2)
 		number_1 * number_2
 	end
+
+	number_1 = 3
+	number_2 = 6
 end
 
